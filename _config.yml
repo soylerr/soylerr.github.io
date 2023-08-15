@@ -119,7 +119,8 @@ post_search: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "rıdvan söyler"
+keywords: "rıdvan söyler"
+faviconUrl: "assets/img/fav-icons"
 
 ######################################
 # --- Colours / background image --- #
