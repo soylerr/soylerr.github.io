@@ -19,7 +19,7 @@ author: Rıdvan SÖYLER
 # --- List of links in the navigation bar --- #
 ###############################################
 
- navbar-links:
+navbar-links:
   Hakkımda: "aboutme"
 #  Resources:
 #   - Beautiful Jekyll: "https://beautifuljekyll.com"
