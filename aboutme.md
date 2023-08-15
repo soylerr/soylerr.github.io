@@ -4,7 +4,6 @@ title: Hakkımda
 subtitle: 
 ---
 
-## Hakkımda
 <hr>
 Merhaba ben Rıdvan,  Dokuz Eylül Üniversitesi Bilgisayar Mühendisliği mezunuyum.  
 Evli ve 3 çocuk babasıyım. .Net başta olmak üzere backend ve devops teknolojilerine ilgi duyuyorum.  
