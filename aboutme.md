@@ -1,16 +1,41 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Hakkımda
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Hakkımda
+<hr>
+Merhaba ben Rıdvan,  Dokuz Eylül Üniversitesi Bilgisayar Mühendisliği mezunuyum.  
+Evli ve 3 çocuk babasıyım. .Net başta olmak üzere backend ve devops teknolojilerine ilgi duyuyorum.  
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Bu web sitesi ile de amacım, öğrendiğim teknolojileri de barındıracak şekilde uygulamaların demolarını yayınlamak ve kodlarını github üzerinden paylaşmak. Örnek senaryolar üzerinden bildiğim teknolojilere ait tecrübelerimi bu şekilde aktarmayı hedefliyorum.
 
-What else do you need?
+### Özgeçmiş
 
-### My story
+#### *2020 - ..* İnnosa Yazılım Teknolojileri A.Ş. 
+> * BBYS uygulamalarında belediyeler tarafından kullanılan Personel, Muhasebe, Satınalma, Ayniyat vs. modülleri başta olmak üzere bir çok modülde görev aldım.
+> * Oracle PL/SQL üzerinde bir çok işlevsel uygulama geliştirdim. Paket, trigger, scheduled jobs vb. ile uygulamalar geliştirdim.
+> * Muhasebeciler odası yönetim paneli ve E-Oda sitesi yeni geliştirmeleri 
+> * Online Satınalma(Oracle + Web API + DevExtreme)
+> * Online Turizm Uygulaması (Oracle + Web API + DevExtreme)
+> * KKB e-Teminat entegrasyonu (ASP .NET MVC + REST API
+Consume)
+> * Flutter ile mobil uygulama geliştirilmesi (Otopark, İş takip)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+#### *2016 - 2019* Ünibel A.Ş.
+> * Mikro servis mimarisi ile uygulama tasarımı
+> * Docker ortamında bu uygulamaların çalıştırılması
+> * Docker Swarm ile mikro servislerin orkestrasyonu
+> * Redis ve RabbitMQ ile anlık bilet satışı uygulamasında koltuk
+> * satışı ve koltuklarının durumunun MSSQL de güncellenmesi
+> * .Net ve .Net Core ile Mvc ve Web API uygulamaları geliştirmek,
+> * Eshot mobil uygulaması servislerinin geliştirilmesi
+> * izmir.bel.tr MVC olarak geliştirilmesi
+> * izban.com.tr web sitesi yeni geliştirmeleri
+> * eislem.izmir.bel.tr web sitesi yeni geliştirmeleri
+> * Süt Kuzusu Projesi (sutkuzusu.com.tr) geliştirilmesi
+
+
+
+Daha detaylı özgeçmişime [buradan](/assets/cv/RIDVAN_SÖYLER_ÖZGEÇMİŞ_TR.pdf) erişebilirsiniz.
